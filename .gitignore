@@ -1,0 +1,6 @@
+x64/
+Debug/
+Release/
+.vs/
+*.user
+Lab4/data/result.txt
